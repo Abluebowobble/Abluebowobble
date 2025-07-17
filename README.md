@@ -11,10 +11,10 @@ I'm Isabella Deng — a programmer, maker, and robotics enthusiast 🤖
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-black?style=flat&logo=google-cloud)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38b2ac?style=flat&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 
 ## Github Stats!
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abluebowobble&show_icons=true)
