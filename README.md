@@ -2,7 +2,7 @@
 
 I'm Isabella Deng — a programmer, maker, and robotics enthusiast 🤖
 
-- 🔭 I’m currently working on a Discord bot + Google API integration
+- 🔭 I’m currently working on my personal portfolio (It's so hard to get it just right...)
 - 🌱 I’m learning AI, FRC/VEX robotics, and C++ in my free time
 - 💡 Fun fact: I have two cats!
 
