@@ -1,11 +1,10 @@
 # Hi there 👋
 
-I'm Qin Qin Zhang — a programmer, maker, and robotics enthusiast 🤖
+I'm Isabella Deng — a programmer, maker, and robotics enthusiast 🤖
 
 - 🔭 I’m currently working on a Discord bot + Google API integration
-- 🌱 I’m learning AI, FRC/VEX robotics, and advanced Python
-- 🎯 2x regional winner in pitching, ICDC qualifier 🎤
-- 💡 Fun fact: I can make a grappling hook game in Pygame!
+- 🌱 I’m learning AI, FRC/VEX robotics, and C++ in my free time
+- 💡 Fun fact: I have two cats!
 
 ## 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
@@ -13,8 +12,4 @@ I'm Qin Qin Zhang — a programmer, maker, and robotics enthusiast 🤖
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-black?style=flat&logo=google-cloud)
 
-## 🔗 Links
-- 💻 [My Portfolio](https://yourwebsite.com)
-- 🌐 [LinkedIn](https://linkedin.com/in/yourname)
-- 🎮 [Cool Project](https://github.com/yourusername/project-name)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
